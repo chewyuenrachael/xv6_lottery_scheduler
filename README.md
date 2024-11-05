@@ -529,7 +529,9 @@ PID: 5, Tickets: 10, Ticks: 273
 
 **Graphical Representation**:
 
-![Ticks Over Time](ticks_over_time.png)
+My graph can be found as ticks_over_time.png in the main folder.
+![ticks_over_time](https://github.com/user-attachments/assets/2550ec47-8cbc-4658-bf87-ba7940d31745)
+
 
 **Analysis**:
 
